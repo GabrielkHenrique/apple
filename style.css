@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+body{
+
+	}
+header{
+	background:#363636;
+	padding: 10 10;
+	margin-top: 50;
+	
+}
+.caixa{
+	margin-left: 25%;
+	position: relative;
+	/*margin: 0 auto;*/
+	padding:10px;
+}
+nav {
+	position: absolute;
+	top: 15px;
+	left: 50px;
+}
+nav li{
+	display: inline;
+	margin: 0 0 0 15;
+}
+nav a{
+	transition: 400ms;
+	font-family: 'Raleway', sans-serif;
+	color:#D3D3D3;
+	font-weight: bold;
+	font-size: 13px;
+	text-decoration: none;
+	padding:35px;
+}
+nav a:hover{
+	transition: 400ms;
+	color: #F8F8FF;
+}
+.baixo{
+	float: right;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	font-size: 50px;
+	text-decoration: none;
+	margin-top: 5%;
+	margin-right: 45%;	
+}
+.mais-embaixo{
+	float: right;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+	font-size: 25px;
+	text-decoration: none;
+	padding-top: 1px;
+	margin-right: 43%;
+}
+.links-baixo{
+	color:#1E90FF;
+	display: flex;
+	float: right;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+	font-size: 19px;
+	text-decoration: none;
+	margin-right: 43%;
+	padding: 10px 30px;
+
+}
+.links-baixo1{
+	color:#1E90FF;
+	display: flex;
+	float: right;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+	font-size: 19px;
+	text-decoration: none;
+	margin-left: 10%;
+	padding: 10px 20px;
+}
+.color{
+	color: #000000;
+}
+
+.banner{
+	float: top;
+	display: flex;
+	margin-top: 11%;
+	margin-left: 22%;
+}
+img{
+	float: -1;
+}
