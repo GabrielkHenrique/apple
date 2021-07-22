@@ -93,22 +93,23 @@ nav a:hover{
 }
 .banner2{
 		display: flex;
-	    margin-top:-3% ;
-	    float: centerrrrrrrrrrrr;
-		
-
+	    margin-top:0% ;
 }
 .bannertexto{
-
+	justify-content: center;
+	left: 45%;
+	position: absolute;    
 	color: whitesmoke;
-	margin-left: 45%;
 	font-family: 'Roboto', sans-serif;
 	font-weight: bold;
 	font-size: 50px;
 	text-decoration: none;
-	margin-top:2%;
 	
-		
+}
+.banner3{
+	top: -3;
+	float: right;
+	float: left;
 }
 img{
 	/*float: -1;*/
