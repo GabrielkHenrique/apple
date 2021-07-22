@@ -85,11 +85,31 @@ nav a:hover{
 }
 
 .banner{
+
 	float: top;
 	display: flex;
 	margin-top: 11%;
 	margin-left: 22%;
 }
+.banner2{
+		display: flex;
+	    margin-top:-3% ;
+	    float: centerrrrrrrrrrrr;
+		
+
+}
+.bannertexto{
+
+	color: whitesmoke;
+	margin-left: 45%;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	font-size: 50px;
+	text-decoration: none;
+	margin-top:2%;
+	
+		
+}
 img{
-	float: -1;
+	/*float: -1;*/
 }
