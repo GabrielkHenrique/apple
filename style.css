@@ -131,6 +131,7 @@ footer{
 	text-align: center;
 }
 .compre{
+	transition: 400ms;
 	font-family: 'Montserrat', sans-serif;
 	width: 100%;
 	background: black;
@@ -142,12 +143,13 @@ footer{
         cursor: pointer;
 }
 .compre:hover{
+	transition: 400ms;
 	font-family: 'Montserrat', sans-serif;
 	background:black;
 	color: white;
 	 outline: none;
      border: none;
-       font-size: 35px;
+       font-size: 32px;
 
 }
 .logo:hover{
